@@ -1,5 +1,5 @@
 {
-  "name": "@moose23967/library-template",
+  "name": "@moose23967/kankyo-javascript-generator",
   "module": "sources/index.ts",
   "type": "module",
   "devDependencies": {
